@@ -11,3 +11,4 @@ Barebones implementation which reads RF values form TLC plates
 - A popup box will prompt you to add another lane. If you click "Yes" the lane selection process can be repeated with the next rightmost lane. If you click "No", you will be prompted to save the image.
 - If you initiate the save procedure, a file dialog will pop up. select the folder you want to save the resulting image in. The image will be saved as <original_file_name>_modified.jpg 
 - You can then process another TLC or quit the program.
+- The Program can be closed at any time by pressing escape and confirming in the dialog box
